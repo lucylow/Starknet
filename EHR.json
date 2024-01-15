@@ -1,54 +1,55 @@
 {
-  "patient": {
-    "name": "John Doe",
-    "dateOfBirth": "1980-05-15",
-    "gender": "Male",
-    "patientID": "0xabc123"
-  },
-  "medicalRecord": {
-    "recordID": "MR123456",
-    "creationDate": "2023-01-15T08:30:00Z",
-    "lastUpdate": "2023-03-20T14:45:00Z",
-    "healthcareProvider": "Stark Medical Center"
-  },
-  "healthConditions": {
-    "diagnoses": ["Hypertension", "Type 2 Diabetes"],
-    "medications": ["Metformin", "Lisinopril"],
-    "allergies": ["Penicillin"]
-  },
-  "treatmentInformation": {
-    "pastTreatments": ["Appendectomy", "Orthopedic surgery"],
-    "medicationHistory": [
-      { "medication": "Aspirin", "dosage": "100mg", "frequency": "Once daily" },
-      { "medication": "Insulin", "dosage": "10 units", "frequency": "Twice daily" }
-    ]
-  },
-  "diagnosticData": {
-    "labResults": [
-      { "test": "Blood Pressure", "result": "120/80 mmHg" },
-      { "test": "HbA1c", "result": "6.2%" }
-    ],
-    "imagingReports": ["X-ray of lumbar spine", "MRI of brain"]
-  },
-  "vaccinationHistory": {
-    "vaccines": [
-      { "name": "Flu Vaccine", "date": "2022-10-01" },
-      { "name": "COVID-19 Vaccine", "date": "2022-12-15" }
-    ]
-  },
-  "emergencyContact": {
-    "name": "Jane Doe",
-    "relationship": "Spouse",
-    "phoneNumber": "+1 (555) 123-4567"
-  },
-  "blockchainInformation": {
-    "nftTokenID": "789012",
-    "smartContractAddress": "0xdef456",
-    "blockchainNetwork": "Starknet"
-  },
-  "accessControlAndEncryption": {
-    "permissions": ["MedicalProfessional", "EmergencyServices"],
-    "encryptionDetails": "AES-256"
-  },
-  "hashOrDigitalSignature": "0x1a2b3c4d5e6f..."
-}
+    "patient": {
+      "name": "John Doe",
+      "dateOfBirth": "1980-05-15",
+      "gender": "Male",
+      "patientID": "0xabc123"
+    },
+    "medicalRecord": {
+      "recordID": "MR123456",
+      "creationDate": "2023-01-15T08:30:00Z",
+      "lastUpdate": "2023-03-20T14:45:00Z",
+      "healthcareProvider": "Stark Medical Center"
+    },
+    "healthConditions": {
+      "diagnoses": ["Hypertension", "Type 2 Diabetes"],
+      "medications": ["Metformin", "Lisinopril"],
+      "allergies": ["Penicillin"]
+    },
+    "treatmentInformation": {
+      "pastTreatments": ["Appendectomy", "Orthopedic surgery"],
+      "medicationHistory": [
+        { "medication": "Aspirin", "dosage": "100mg", "frequency": "Once daily" },
+        { "medication": "Insulin", "dosage": "10 units", "frequency": "Twice daily" }
+      ]
+    },
+    "diagnosticData": {
+      "labResults": [
+        { "test": "Blood Pressure", "result": "120/80 mmHg" },
+        { "test": "HbA1c", "result": "6.2%" }
+      ],
+      "imagingReports": ["X-ray of lumbar spine", "MRI of brain"]
+    },
+    "vaccinationHistory": {
+      "vaccines": [
+        { "name": "Flu Vaccine", "date": "2022-10-01" },
+        { "name": "COVID-19 Vaccine", "date": "2022-12-15" }
+      ]
+    },
+    "emergencyContact": {
+      "name": "Jane Doe",
+      "relationship": "Spouse",
+      "phoneNumber": "+1 (555) 123-4567"
+    },
+    "blockchainInformation": {
+      "nftTokenID": "789012",
+      "smartContractAddress": "0xdef456",
+      "blockchainNetwork": "Starknet"
+    },
+    "accessControlAndEncryption": {
+      "permissions": ["MedicalProfessional", "EmergencyServices"],
+      "encryptionDetails": "AES-256"
+    },
+    "hashOrDigitalSignature": "0x1a2b3c4d5e6f..."
+  }
+  
