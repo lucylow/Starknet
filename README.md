@@ -375,3 +375,4 @@ User Experience:
 Intuitiveness: The system is designed to be user-friendly for both healthcare professionals and patients. Access to EHRs through NFTs can streamline the process of data sharing and retrieval.
 Understanding: The solution simplifies complex processes related to EHRs. Patients and healthcare providers can easily understand and navigate the system, improving overall user experience.
 
+![](https://github.com/lucylow/Starknet/blob/main/images/Screen%20Shot%202024-01-15%20at%207.18.41%20PM.png?raw=true)
