@@ -8,9 +8,6 @@ In the current healthcare landscape, traditional Electronic Health Record (EHR) 
 
 # Solution : Lexicon Medical Memory Palace
 
-![](https://github.com/lucylow/Starknet/blob/main/images/Screen%20Shot%202024-01-15%20at%204.58.07%20PM.png?raw=true)
-
-
 StarkNet Security, Lexicon Memories: Where Every Health Detail Finds a Secure Sanctuary to Unlock the Past and Secure the Future
 
 1. Enhanced Security and Integrity:
